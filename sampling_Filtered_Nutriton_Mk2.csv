@@ -1,257 +1,1 @@
-No.,Item_Name,Food_Category,Serving_Size,Calories,Total_Fat,Saturated_Fat,Trans_Fat,Cholesterol,Sodium,Carbohydrates,Protein,Sugar,Dietary_Fiber
-1,Harvest Chicken Salad Sandwich,Sandwiches,297,620,26,4,0,60,730,66,34,15,11
-2,Albacore Tuna Salad on Multigrain,Sandwiches,290,590,28,4,0,35,740,59,31,10,10
-3,Harvest Chicken Salad on Multigrain,Sandwiches,297,590,25,3.5,0,55,820,64,33,15,11
-4,#14 Veggie on Wheat Regular,Sandwiches,386,660,27.5,17,1,75,895,69,35,9,5
-5,#14 Veggie on White Regular,Sandwiches,386,660,27.5,16.5,1,75,925,68,34,8,3
-6,"#12 Cancro Special, Flour Tortilla Wrap",Sandwiches,458,770,31,13,1,135,990,61,63,6,7
-7,"#12 The Cancro Special, Wheat Regular",Sandwiches,469,775,26,10.5,1,135,1000,71,65,10,7
-8,#12 The Cancro Special on Wheat Regular,Sandwiches,427,750,27,12,0,135,1005,67,59,8,5
-9,#12 The Cancro Special on White Regular,Sandwiches,427,750,27,11.5,0,135,1035,66,58,7,3
-10,The Single All Natural Burger,Burgers,315,760,44,13,1,90,1040,61,31,19,3
-11,#6 Famous Roast Beef & Provolone on Flour Tortilla Wrap,Sandwiches,412,720,29.5,12.5,0,120,1045,60,55,6,6
-12,"#6 Famous Roast Beef & Provolone, Flour Tortilla Wrap",Sandwiches,417,745,30.5,13,0,125,1060,60,57,6,6
-13,"#12 Cancro Special, Wheat Wrap",Sandwiches,458,760,31,13,1,135,1060,59,62,5,8
-14,Whatachickn Sandwich Whatameal,Sandwiches,1276,1360,41,11,0,80,1070,219,38,121,8
-15,"Spinach, Mushroom & Swiss on Ancient Grain w/ 2 Eggs",Sandwiches,270,570,28,11,1,405,1080,54,31,8,9
-16,#6 Famous Roast Beef & Provolone on Wheat Wrap,Sandwiches,412,720,29.5,12.5,0,120,1115,58,55,5,7
-17,"#6 Roast Beef & Provolone, Wheat Wrap",Sandwiches,417,740,30.5,13,0,125,1130,58,57,5,7
-18,"#12 Cancro Special, Tomato Wrap",Sandwiches,458,770,31,13,1,135,1140,60,63,11,5
-19,"Tuna, Footlong",Sandwiches,474,960,51,9,0.5,75,1150,88,41,13,10
-20,"#12 Cancro Special, Spinach Wrap",Sandwiches,458,770,31,13,1,135,1160,61,63,8,5
-21,"Grilled Roast Beef & Cheese Wrap, Flour",Sandwiches,430,830,45,14,0.5,100,1170,65,42,12,5
-22,"#9 Club Supreme, Wheat Mini",Sandwiches,324,650,28,8,0,75,1185,61,39,5,6
-23,#6 Famous Roast Beef & Provolone on Tomato Wrap,Sandwiches,412,720,29.5,13,0,120,1195,59,55,11,4
-24,"#6 Roast Beef & Provolone, Tomato Wrap",Sandwiches,417,745,30.5,13.5,0,125,1210,59,57,11,4
-25,#6 Famous Roast Beef & Provolone on Spinach Wrap,Sandwiches,412,720,29.5,13,0,120,1215,60,55,8,4
-26,Grilled Veggie Wrap on Flour Tortilla Wrap,Sandwiches,452,810,46,20.5,0.5,85,1215,66,33,9,7
-27,French Toast Egg Sandwich,Sandwiches,287,740,34,15,0.5,385,1230,79,31,27,2
-28,"#6 Famous Roast Beef & Provolone, Spinach Wrap",Sandwiches,417,745,30.5,13.5,0,125,1230,60,57,8,4
-29,#12 Cancro Special on Flour Tortilla Wrap,Sandwiches,423,770,33.5,14,0,135,1230,60,58,6,6
-30,"#9 Club Supreme, White Mini",Sandwiches,324,620,27,8,0,75,1250,57,38,5,3
-31,Grilled Chicken Sandwich Whatameal,Sandwiches,1276,1260,34,5,0,90,1250,210,37,120,9
-32,"Cheese & Veggies Pizza, 8 in",Pizza,381,740,25,11,0,50,1270,100,36,9,5
-33,Grilled Chicken Sub on Wheat Regular,Sandwiches,384,720,31.5,5.5,0,100,1270,68,41,9,4
-34,Steak & Cheese Melt Sandwich,Sandwiches,224,680,35,12,1,110,1280,57,31,5,2
-35,Grilled Veggie Wrap on Wheat Wrap,Sandwiches,452,800,46,20.5,0.5,85,1285,64,33,8,8
-36,Grilled Chicken Sub on White Regular,Sandwiches,384,720,31.5,5,0,100,1300,67,40,8,2
-37,#12 Cancro Special on Wheat Wrap,Sandwiches,423,760,33.5,14,0,135,1300,58,58,5,7
-38,Grilled Chicken Sub on Flour Tortilla Wrap,Sandwiches,380,740,38,7.5,0,100,1300,61,40,7,5
-39,The Double All Natural Burger,Burgers,398,1030,64,23,1.5,170,1310,62,53,19,3
-40,Grilled Chicken Sandwich Whatameal,Sandwiches,1073,1150,35,5,0,95,1330,184,40,96,13
-41,Chop House Cheddar Burger Jr Whatameal,Burgers,1227,1430,58,15,1,80,1330,201,36,119,6
-42,"Big Farm Hamburger, High Calorie",Burgers,431,930,46,15,2,95,1330,93,33,8,7
-43,Chop House Cheddar Burger Jr Whatameal,Burgers,1227,1430,58,15,1,80,1330,201,36,119,6
-44,The Big Chicken Fillet Sandwich,Sandwiches,288,650,33,6,0,70,1330,55,33,9,3
-45,#7 Omelet w/ Bacon on Flour Tortilla Wrap,Sandwiches,274,710,38.5,16.5,0,480,1335,54,37,1,5
-46,Whatachickn Sandwich Whatameal,Sandwiches,1078,1280,43,6,0,60,1340,203,34,96,13
-47,Cheesy Wakin Bacon Egg Sandwich,Sandwiches,201,580,26,11,0.5,240,1340,54,33,7,2
-48,"Cranberry Pecan Chicken Salad, Regular, 2pm Close",Salads,351,610,31,8,1,75,1340,52,33,19,7
-49,#7 Omelet w/ Bacon on White Sub Roll,Sandwiches,284,680,32,14,0,480,1340,63,39,3,4
-50,#7 Omelet w/ Bacon on Wheat Sub Roll,Sandwiches,284,700,32.5,14.5,0,480,1340,63,39,3,4
-51,"Pepperoni Pizza, 8 in",Pizza,323,790,32,13,0,60,1350,96,38,8,4
-52,Italian Chicken Tostini,Sandwiches,304,680,31,9,0,95,1350,62,45,8,8
-53,Spinach Artichoke Chicken on Spinach Florentine Bagel,Sandwiches,314,650,25,12,0.5,115,1350,63,45,7,5
-54,French Toast Egg Sandwich w/ 2 Eggs,Sandwiches,274,780,36,16,1,435,1350,78,34,27,2
-55,The Big Chicken Fillet Sandwich,Sandwiches,300,680,35,6,0,75,1360,62,32,11,4
-56,#6 Omelet w/ Ham on Flour Tortilla Wrap,Sandwiches,288,620,29,12.5,0,475,1365,55,36,1,5
-57,Grilled Veggie Wrap on Tomato Wrap,Sandwiches,452,810,46,21,0.5,85,1365,65,33,14,5
-58,Grilled Chicken Sub on Wheat Wrap,Sandwiches,380,730,38,7.5,0,100,1370,59,40,6,6
-59,Sweet & Spicy Bacon Burger Jr Whatameal w/ Lower Calorie Sides,Burgers,859,640,33,13,1,80,1370,51,32,16,3
-60,The Big Carl,Burgers,321,920,58,23,2,140,1380,56,47,12,3
-61,"Grilled Veggie Wrap, Flour",Sandwiches,487,945,58.5,23.5,0.5,100,1380,69,36,10,7
-62,The Big Carl,Burgers,321,920,58,23,2,140,1380,56,47,12,3
-63,#12 Cancro Special on Tomato Wrap,Sandwiches,423,770,33.5,14.5,0,135,1380,59,58,11,4
-64,Grilled Veggie Wrap on Spinach Wrap,Sandwiches,452,810,46,21,0.5,85,1385,66,33,11,5
-65,Spinach & Artichoke Chicken,Sandwiches,343,690,26,13,0.5,115,1390,66,49,8,7
-66,Santa Fe Sandwich w/ 2 Eggs,Sandwiches,301,640,28,13,1,440,1390,61,37,8,2
-67,#12 Cancro Special on Spinach Wrap,Sandwiches,423,770,33.5,14.5,0,135,1400,60,58,8,4
-68,#10 Tuna Salad on Wheat Regular,Sandwiches,422,800,42.5,6.5,0,85,1405,71,33,8,5
-69,Italian Chicken on Potato Roll,Sandwiches,297,670,31,9,0,95,1410,58,44,8,6
-70,"Sausage Pizza, 8 in",Pizza,336,820,34,14,0,70,1420,97,39,8,4
-71,All Natural Budweiser Beer Cheese Bacon Burger Single,Burgers,327,710,38,16,1,85,1430,51,40,11,3
-72,All Natural Budweiser Beer Cheese Bacon Burger Single,Burgers,327,710,38,16,,85,1430,51,40,11,3
-73,"#10 Tuna Fish, Flour Tortilla Wrap",Sandwiches,418,820,49,8.5,0,85,1435,64,32,6,6
-74,#10 Tuna Salad on White Regular,Sandwiches,422,800,42.5,6,0,85,1435,70,32,7,3
-75,#10 Tuna Fish on Flour Tortilla Wrap,Sandwiches,418,820,49,8.5,0,85,1435,64,32,6,6
-76,Single Super Bacon Cheese Burger,Burgers,293,840,52,19,1,115,1440,52,39,9,3
-77,"#10 Tuna Salad, Wheat Regular",Sandwiches,428,810,43,6.5,0,85,1440,73,34,8,5
-78,"#10 Tuna Salad, White Regular",Sandwiches,428,790,42.5,6,0,85,1440,70,33,7,3
-79,Grilled Chicken Sub on Tomato Wrap,Sandwiches,380,740,38,8,0,100,1450,60,40,12,3
-80,Chorizo Sunrise,Sandwiches,315,840,51,21,0.5,275,1460,61,36,8,5
-81,Double Meat Whataburger,Burgers,400,830,44,14,2,90,1470,62,47,12,4
-82,Grilled Chicken Sub on Spinach Wrap,Sandwiches,380,740,38,8,0,100,1470,61,40,9,3
-83,Double Meat Whataburger,Burgers,400,830,44,14,2,90,1470,62,47,12,4
-84,"#17 Jersey Mike's Famous Philly, Flour Tortilla Wrap",Sandwiches,387,670,28,13,0,105,1475,65,41,9,5
-85,Chicken Caesar Wrap,Sandwiches,324,630,28,12,0,110,1480,61,37,6,7
-86,Italian Chicken on Potato Roll,Sandwiches,308,680,31,9,0,95,1480,63,45,8,6
-87,Chicken & Double Smoked Bacon,Sandwiches,201,620,26,8,0,110,1480,65,31,12,3
-88,Chorizo Sunrise w/ Egg White,Sandwiches,326,790,46,19,0,90,1480,61,36,7,5
-89,#7 Omelet w/ Bacon on Tomato Wrap,Sandwiches,274,710,38.5,17,0,480,1485,53,37,6,3
-90,The Big Chicken Fillet Sandwich,Sandwiches,329,750,42,8,,85,1490,63,32,11,3
-91,The 1/3 lb Original Six Dollar Thickburger,Burgers,338,780,48,15,2,110,1490,55,33,18,3
-92,Chicken Caesar Wrap on Flour Tortilla Wrap,Sandwiches,359,650,28,6,0,90,1490,58,43,5,6
-93,A1 Thick & Hearty Burger Jr Whatameal,Burgers,978,1250,49,12,1,65,1500,174,34,92,6
-94,"Whataburger Patty Melt, Single Whatameal",Burgers,1022,1360,58,14,1,70,1500,180,33,89,5
-95,Double Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1405,870,44,14,2,90,1500,72,47,17,5
-96,Double Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1405,870,44,14,2,90,1500,72,47,17,5
-97,"#10 Tuna Fish, Wheat Wrap",Sandwiches,418,815,49,8.5,0,85,1505,62,32,5,7
-98,#7 Omelet w/ Bacon on Spinach Wrap,Sandwiches,274,710,38.5,17,0,480,1505,54,37,3,3
-99,#10 Tuna Fish on Wheat Wrap,Sandwiches,418,720,49,8.5,0,85,1505,62,32,5,7
-100,"Whataburger Patty Melt, Single Whatameal",Burgers,1262,1470,58,14,1,70,1510,209,33,118,5
-101,The Big Chicken Fillet Sandwich,Sandwiches,312,710,36,6,1,80,1510,64,35,10,4
-102,Chicken Fajita Taco Whatameal,Sandwiches,1236,1170,32,6,0,80,1510,195,34,114,7
-103,Bacon & Spinach on Spinach Florentine,Sandwiches,245,730,43,14,1,255,1510,56,32,8,3
-104,#6 Omelet w/ Ham on Tomato Wrap,Sandwiches,288,620,29,13,0,475,1515,54,36,6,3
-105,Loaded Breakfast Burrito,Sandwiches,306,790,50,22,0,395,1520,53,32,2,3
-106,Whataburger Whatameal,Burgers,1110,1310,46,10,1,45,1520,196,34,94,8
-107,Cheesy Bacon,Sandwiches,273,670,30,13,0.5,365,1530,60,38,7,2
-108,Bacon & Spinach on Spinach Florentine w/ Egg White,Sandwiches,256,680,38,12,0.5,70,1530,56,32,8,3
-109,Whataburger Whatameal,Burgers,1351,1420,46,10,1,45,1530,226,34,124,8
-110,#6 Omelet w/ Ham on Spinach Wrap,Sandwiches,288,620,29,13,0,475,1535,55,36,3,3
-111,Super Star w/ Cheese,Burgers,390,930,56,23,2,140,1540,59,48,14,3
-112,The Breakfast Burger,Burgers,294,830,44,19,1,255,1540,68,39,13,4
-113,BBQ Bacon Whopper Sandwich,Burgers,303,800,51,17,2,125,1540,53,35,14,2
-114,Super Star w/ Cheese,Burgers,390,920,56,23,2,140,1540,59,48,13,4
-115,"#17 Jersey Mike's Famous Philly, Wheat Wrap",Sandwiches,387,660,28,13,0,105,1545,63,41,8,6
-116,Sweet & Spicy Bacon Burger Jr Whatameal,Burgers,861,1140,47,15,1,80,1550,146,35,81,4
-117,Chicken Caesar Wrap on Wheat Wrap,Sandwiches,359,640,28,6,0,90,1560,56,43,4,7
-118,Applewood Bacon & Spinach on Spinach Florentine Bagel,Sandwiches,310,770,43,17,0.5,365,1580,62,35,8,3
-119,"Turkey, Bacon & Avocado, License Locations Only",Sandwiches,316,640,32,6,0,80,1580,57,35,11,9
-120,"#9 Club Supreme, Flour Tortilla Wrap",Sandwiches,479,960,55,16,0.5,120,1580,63,54,6,7
-121,"#9 Club Supreme, White Regular",Sandwiches,490,940,49,13.5,0.5,120,1585,69,55,8,4
-122,"#10 Tuna Fish, Tomato Wrap",Sandwiches,418,820,49,9,0,85,1585,63,32,11,4
-123,#10 Tuna Fish on Tomato Wrap,Sandwiches,418,820,49,9,0,85,1585,63,32,11,4
-124,"#9 Club Supreme, Wheat Regular",Sandwiches,490,960,50,13.5,0.5,120,1590,71,57,10,7
-125,Chicken Fajita Taco Whatameal,Sandwiches,1220,1170,34,6,0,90,1590,193,33,114,7
-126,Santa Fe Wrap,Sandwiches,293,710,39,16,0.5,290,1590,60,32,3,7
-127,Spicy Nacho Chicken Sandwich,Sandwiches,271,750,37,7,0,55,1600,69,31,7,4
-128,Turkey Pesto,Sandwiches,337,710,37,14,0,90,1600,56,40,2,3
-129,Green Chile Double Jr Whatameal,Burgers,996,1260,51,14,1,70,1600,171,33,89,6
-130,Avocado Bacon Burger,Burgers,334,820,52,15,1,90,1600,51,37,7,4
-131,Avocado Bacon Burger,Burgers,334,820,52,15,1,90,1600,51,37,7,4
-132,#18 Breaded Chicken Parmesan on Wheat Wrap,Sandwiches,335,690,27,11,0,85,1600,69,45,4,8
-133,Chorizo Sunrise w/ 2 Eggs,Sandwiches,361,920,57,23,1,465,1600,62,42,8,5
-134,"#10 Tuna Fish, Spinach Wrap",Sandwiches,418,820,49,9,0,85,1605,64,32,8,4
-135,#10 Tuna Fish on Spinach Wrap,Sandwiches,418,820,49,9,0,85,1605,64,32,8,4
-136,Turkey & Cheddar,Sandwiches,322,660,29,7,0.5,70,1610,61,34,12,3
-137,Green Chile Double Jr Whatameal,Burgers,1236,1370,51,14,1,70,1610,201,33,119,6
-138,#6 Roast Beef & Provolone on Wheat Giant,Sandwiches,765,1330,43,18.5,0.5,235,1620,130,107,14,9
-139,"Cranberry Pecan Chicken, High Calorie, Regular",Salads,408,910,50,13,0,85,1620,81,37,24,8
-140,"#17 Jersey Mike's Famous Philly, Tomato Wrap",Sandwiches,387,670,28,13.5,0,105,1625,64,41,14,3
-141,"Turkey, Bacon & Avocado",Sandwiches,318,660,30,5,0,60,1630,64,34,9,4
-142,1/3 lb Cheeseburger,Burgers,256,640,35,13,,105,1630,55,31,15,10
-143,1/3 lb Mushroom & Swiss Thickburger,Burgers,267,690,40,15,,115,1630,52,34,11,10
-144,Avocado Bacon Burger Whatameal w/ Lower Calorie Sides,Burgers,1339,860,52,15,1,90,1630,62,37,12,5
-145,Avocado Bacon Burger Whatameal w/ Lower Calorie Sides,Burgers,1339,860,52,15,1,90,1630,62,37,12,5
-146,1/3 lb Cheeseburger,Burgers,244,640,33,12,2,100,1640,56,33,14,2
-147,Chicken Caesar Wrap on Tomato Wrap,Sandwiches,359,650,28,6.5,0,90,1640,57,43,10,4
-148,Grilled Chicken Melt Whatameal,Sandwiches,1258,1220,32,6,0,95,1640,203,38,119,7
-149,"#17 Jersey Mike's Famous Philly, Spinach Wrap",Sandwiches,387,670,28,13.5,0,105,1645,65,41,11,3
-150,Western Bacon Cheeseburger,Burgers,250,750,35,14,1,80,1650,75,36,16,4
-151,"#9 Club Supreme, Wheat Wrap",Sandwiches,479,950,55,16,0.5,120,1650,61,53,5,8
-152,Mushroom Swiss Burger Jr Whatameal,Burgers,1264,1490,63,17,1,85,1650,201,36,119,6
-153,Western Bacon Cheeseburger,Burgers,250,750,35,14,1,80,1650,75,36,16,4
-154,1/3 lb Original Thickburger,Burgers,358,820,53,16,,120,1660,56,32,15,10
-155,Turkey Santa Fe,Sandwiches,345,730,40,14,0,90,1660,57,36,2,3
-156,Chop House Cheddar Burger,Burgers,373,1110,69,26,2,150,1660,61,60,12,3
-157,Bacon & Spinach on Spinach Florentine w/ 2 Eggs,Sandwiches,291,810,49,16,1,445,1660,57,38,9,3
-158,1/3 lb Original Thickburger,Burgers,334,780,48,15,2.5,110,1660,56,34,14,3
-159,1/3 lb Mushroom & Swiss Thickburger,Burgers,255,680,38,15,2,110,1660,53,36,10,2
-160,Chicken Caesar Wrap on Spinach Wrap,Sandwiches,359,650,28,6.5,0,90,1660,58,43,7,4
-161,Chop House Cheddar Burger,Burgers,373,1110,69,26,2,150,1660,61,60,12,3
-162,"Farmhouse Garden Chicken, High Calorie, Full",Salads,612,1150,68,20,0,80,1670,103,32,23,10
-163,1/3 lb Bacon Cheese Thickburger,Burgers,348,900,59,18,,140,1680,54,40,13,10
-164,Monterey Melt Jr Whatameal,Burgers,1009,1330,59,16,1,75,1680,172,33,89,6
-165,#18 Breaded Chicken Parmesan on Tomato Wrap,Sandwiches,335,700,27,11.5,0,85,1680,70,45,10,5
-166,#6 Roast Beef & Provolone on White Giant,Sandwiches,765,1330,42.5,18.5,0.5,235,1680,128,106,13,5
-167,#15 Meatball & Cheese on Wheat Regular,Sandwiches,318,800,40.5,18,0,90,1680,72,37,7,7
-168,Homestyle Ranch Chicken Club,Sandwiches,266.26,632,28,8,0,72,1687,62,34,12,4
-169,Chop House Cheddar Burger Whatameal w/ Lower Calorie Sides,Burgers,1376,1130,68,26,2,155,1690,71,61,17,4
-170,Chop House Cheddar Burger Jr Whatameal w/ Lower Calorie Sides,Burgers,1376,1130,68,26,2,155,1690,71,61,17,4
-171,Monterey Melt Jr Whatameal,Burgers,1249,1430,59,16,1,75,1690,201,33,119,6
-172,Chop House Cheddar Burger Whatameal w/ Lower Calorie Sides,Burgers,1378,1150,69,26,2,155,1690,71,61,17,4
-173,Grilled Chicken Melt Whatameal,Sandwiches,1001,1110,33,7,0,105,1700,172,37,89,7
-174,1/3 lb Bacon Cheese Thickburger,Burgers,324,850,54,17,2.5,130,1700,54,42,12,3
-175,#18 Breaded Chicken Parmesan on Spinach Wrap,Sandwiches,335,700,27,11.5,0,85,1700,71,45,7,5
-176,#15 Meatball & Cheese on Flour Tortilla Wrap,Sandwiches,314,830,47.5,20,0,90,1710,65,36,5,8
-177,"Farmhouse Garden Chicken Salad, Full, 2pm Close",Salads,620,710,31,10,1,130,1710,57,52,14,8
-178,#15 Meatball & Cheese on White Regular,Sandwiches,318,800,41,17.5,0,90,1710,71,36,6,5
-179,"The Grilled Burrito, Beef",Sandwiches,487,850,35,15,0.5,95,1720,90,41,7,8
-180,Triple Meat Whataburger,Burgers,484,1080,63,21,3,130,1720,62,65,12,4
-181,"The Grilled Burrito, Beef",Sandwiches,487,850,35,15,0.5,95,1720,90,41,7,8
-182,Triple Meat Whataburger,Burgers,484,1080,63,21,3,130,1720,62,65,12,4
-183,"#9 Club Supreme, Tomato Wrap",Sandwiches,479,960,55,16,0.5,120,1730,62,54,11,5
-184,"Three Cheese Burger, High Calorie",Burgers,474,1080,57,23,1.5,140,1740,94,44,9,7
-185,Buttermilk Chicken Bacon & Swiss Sandwich,Sandwiches,295,650,31,9,0,90,1750,56,39,9,2
-186,Santa Fe Wrap,Sandwiches,314,650,32,16,0,380,1750,60,38,7,2
-187,"#9 Club Supreme, Spinach Wrap",Sandwiches,479,960,55,16,0.5,120,1750,63,54,8,5
-188,Triple Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1489,1120,63,21,3,135,1750,72,65,17,5
-189,Triple Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1489,1120,63,21,3,135,1750,72,65,17,5
-190,#8 Omelet w/ Ham & Bacon on Flour Tortilla Wrap,Sandwiches,309,740,39.5,17,0,500,1755,55,42,1,5
-191,The Bacon 3 Way Burger,Burgers,329,800,44,17,1,105,1760,65,39,21,3
-192,"Taco Salad, Ground Beef",Salads,548,850,47,15,1,85,1760,70,38,8,14
-193,Italian Chicken Tostini,Sandwiches,340,740,37,12,0,105,1760,59,48,3,9
-194,"Egg & Cheese, Footlong",Sandwiches,349,740,26,9,0,345,1760,87,38,10,8
-195,"Wildfire Chicken Salad, High Calorie, Full",Salads,601,1170,63,17,0,65,1760,122,32,37,11
-196,#8 Omelet w/ Ham & Bacon on White Sub Roll,Sandwiches,319,710,33,14.5,0,500,1760,61,43,2,2
-197,#8 Omelet w/ Ham & Bacon on Wheat Sub Roll,Sandwiches,319,730,33.5,15,0,500,1760,64,44,3,4
-198,"The Grilled Burrito, Chicken",Sandwiches,478,830,31,14,0,130,1780,88,46,6,6
-199,#15 Meatball & Cheese on Wheat Wrap,Sandwiches,314,820,47.5,20,0,90,1780,63,36,4,9
-200,"The Grilled Burrito, Chicken",Sandwiches,478,830,31,14,0,130,1780,88,46,6,6
-201,#14 Veggie on Wheat Giant,Sandwiches,719,1310,57,36,2,160,1790,135,66,17,9
-202,Whataburger Patty Melt Whatameal w/ Lower Calorie Sides,Burgers,1336,980,61,21,2,130,1790,56,49,11,2
-203,Green Chile Double Jr Whatameal w/ Lower Calorie Sides,Burgers,1355,1010,57,21,2,125,1790,69,54,15,4
-204,All Natural Budweiser Beer Cheese Bacon Burger Double,Burgers,403,940,55,24,2,155,1800,52,60,12,3
-205,All Natural Budweiser Beer Cheese Bacon Burger Double,Burgers,403,940,55,24,,155,1800,52,60,12,3
-206,Jalapeno & Cheese Whataburger,Burgers,352,680,32,12,1,65,1800,63,34,12,4
-207,Pepperoni Pizza,Pizza,323,840,33,13,1,70,1800,97,35,8,4
-208,Jalapeno & Cheese Whataburger,Burgers,352,680,32,12,1,65,1800,63,34,12,4
-209,"Chicken Cobb Salad, High Calorie, Regular",Salads,474,1020,62,17,0,175,1800,73,42,20,6
-210,"Grilled Burrito, Beef",Sandwiches,383,700,31,14,1.5,85,1800,71,36,5,8
-211,Grilled Breakfast Sandwich,Sandwiches,253,620,29,10,0,490,1810,53,36,4,4
-212,Grilled Breakfast Sandwich,Sandwiches,253,616,29,10,0,491,1813,53,36,4,4
-213,1/3 lb Budweiser Beer Cheese Bacon Thickburger,Burgers,358,790,46,20,2,115,1820,51,43,12,2
-214,1/3 lb Budweiser Beer Cheese Bacon Thickburger,Burgers,358,790,46,2046,,115,1820,51,43,12,2
-215,California Club on Wheat Regular,Sandwiches,470,700,26.5,11.5,0,75,1820,71,45,8,9
-216,The 1/3 lb Guacamole Bacon Thickburger,Burgers,387,1010,69,20,2,120,1830,57,35,14,4
-217,Green Chile Club on Green Chile Bagel,Sandwiches,341,720,34,12,0.5,95,1830,62,43,9,3
-218,Jalapeno & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1357,720,32,12,1,65,1830,73,34,17,5
-219,Jalapeno & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1357,720,32,12,1,65,1830,73,34,17,5
-220,"Meatball Pizza, 8 in",Pizza,344,860,33,14,1,80,1840,100,37,7,5
-221,Macho Combo Burrito,Sandwiches,538,950,37,20,0.5,110,1840,100,46,6,16
-222,#14 Veggie on White Giant,Sandwiches,719,1310,56.5,36,2,160,1850,133,65,16,5
-223,California Club on White Regular,Sandwiches,470,700,26.5,11,0,75,1850,70,44,7,7
-224,"Wildfire Chicken Salad, Full, 2pm Close",Salads,617,790,32,9,1,125,1860,75,52,29,9
-225,#15 Meatball & Cheese on Tomato Wrap,Sandwiches,314,830,47.5,20.5,0,90,1860,64,36,10,6
-226,#9 Club Supreme on Wheat Regular,Sandwiches,478,930,48,14.5,0,145,1865,70,57,8,5
-227,"The Breakfast Burger, Double",Burgers,377,1080,64,26,2,305,1870,68,59,13,4
-228,Sausage Pizza,Pizza,336,860,35,14,0.5,80,1870,98,35,8,4
-229,#15 Meatball & Cheese on Spinach Wrap,Sandwiches,314,830,47.5,20.5,0,90,1880,65,36,7,6
-230,Homestyle Ranch Chicken Club,Sandwiches,267,710,33,8,0,80,1880,66,40,12,4
-231,"Epic Scrambler, Carne Asada Steak",Sandwiches,459,960,54,20,0,595,1890,73,39,6,3
-232,Mushroom Swiss Burger,Burgers,409,1110,70,23,2,135,1890,61,56,11,3
-233,Epic Scrambler w/ Carne Asada Steak,Sandwiches,459,960,54,20,0,595,1890,73,39,6,3
-234,"Taco Salad, Ground Beef",Salads,569,890,56,18,1,90,1890,62,35,9,11
-235,#9 Club Supreme on White Regular,Sandwiches,478,930,48,14,0,145,1895,68,56,7,3
-236,#9 Club Supreme on Flour Tortilla Wrap,Sandwiches,474,960,54.5,16.5,0,145,1895,62,56,6,6
-237,#8 Omelet w/ Ham & Bacon on Tomato Wrap,Sandwiches,309,740,39.5,17.5,0,500,1905,54,42,6,3
-238,Bacon & Cheese Whataburger,Burgers,354,750,37,13,1,80,1910,62,39,12,4
-239,Bacon & Cheese Whataburger,Burgers,354,750,37,13,1,80,1910,62,39,12,4
-240,"#15 Meatball & Cheese, Flour Tortilla Wrap",Sandwiches,366,855,46.5,20,0,90,1920,73,37,11,9
-241,"Taco Salad, Beef",Salads,506,920,56,17,5,70,1920,72,35,5,8
-242,Mushroom Swiss Burger Whatameal w/ Lower Calorie Sides,Burgers,1414,1150,70,23,2,135,1920,71,56,16,4
-243,#8 Omelet w/ Ham & Bacon on Spinach Wrap,Sandwiches,309,740,39.5,17.5,0,500,1925,55,42,3,3
-244,Roast Turkey & Swiss Sandwich,Sandwiches,326,710,28,7,0,65,1930,79,38,15,5
-245,The 1/3 lb Super Bacon Thickburger,Burgers,354,960,63,20,2,130,1930,55,40,13,3
-246,"Taco Salad, Beef",Salads,506,930,56,17,,65,1930,73,35,7,9
-247,"California Cheesesteak, Flour Tortilla Wrap",Sandwiches,467,880,53,17,0,130,1930,62,40,8,5
-248,Roast Turkey & Swiss Sandwich,Sandwiches,326,710,28,7,0,65,1930,79,38,15,5
-249,"California Cheesesteak, Wheat Regular",Sandwiches,477,875,47,15,0,130,1935,71,42,10,4
-250,"California Cheesesteak, White Regular",Sandwiches,477,860,46.5,14.5,0,130,1935,68,41,9,2
-251,Bacon & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1359,790,37,13,1,85,1940,72,40,17,5
-252,Bacon & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1314,780,37,13,1,85,1940,70,39,15,4
-253,"Taco Salad, Chicken",Salads,560,870,53,17,0,120,1950,60,40,9,9
-254,"Taco Salad, Steak",Salads,560,870,53,17,0,120,1950,60,40,9,9
-255,Turkey Club Mex Wrap,Sandwiches,350,720,40,11,0,80,1950,57,36,4,8
-256,Cheesy Bacon Club,Sandwiches,351,820,41,16,1,120,1950,63,50,9,3
+No.,Item_Name,Food_Category,Serving_Size,Calories,Total_Fat,Saturated_Fat,Trans_Fat,Cholesterol,Sodium,Carbohydrates,Protein,Sugar,Dietary_Fiber1,Harvest Chicken Salad Sandwich,Sandwiches,297,620,26,4,0,60,730,66,34,15,112,Albacore Tuna Salad on Multigrain,Sandwiches,290,590,28,4,0,35,740,59,31,10,103,Harvest Chicken Salad on Multigrain,Sandwiches,297,590,25,3.5,0,55,820,64,33,15,114,#14 Veggie on Wheat Regular,Sandwiches,386,660,27.5,17,1,75,895,69,35,9,55,#14 Veggie on White Regular,Sandwiches,386,660,27.5,16.5,1,75,925,68,34,8,36,"#12 Cancro Special, Flour Tortilla Wrap",Sandwiches,458,770,31,13,1,135,990,61,63,6,77,"#12 The Cancro Special, Wheat Regular",Sandwiches,469,775,26,10.5,1,135,1000,71,65,10,78,#12 The Cancro Special on Wheat Regular,Sandwiches,427,750,27,12,0,135,1005,67,59,8,59,#12 The Cancro Special on White Regular,Sandwiches,427,750,27,11.5,0,135,1035,66,58,7,310,The Single All Natural Burger,Burgers,315,760,44,13,1,90,1040,61,31,19,311,#6 Famous Roast Beef & Provolone on Flour Tortilla Wrap,Sandwiches,412,720,29.5,12.5,0,120,1045,60,55,6,612,"#6 Famous Roast Beef & Provolone, Flour Tortilla Wrap",Sandwiches,417,745,30.5,13,0,125,1060,60,57,6,613,"#12 Cancro Special, Wheat Wrap",Sandwiches,458,760,31,13,1,135,1060,59,62,5,814,Whatachickn Sandwich Whatameal,Sandwiches,1276,1360,41,11,0,80,1070,219,38,121,815,"Spinach, Mushroom & Swiss on Ancient Grain w/ 2 Eggs",Sandwiches,270,570,28,11,1,405,1080,54,31,8,916,#6 Famous Roast Beef & Provolone on Wheat Wrap,Sandwiches,412,720,29.5,12.5,0,120,1115,58,55,5,717,"#6 Roast Beef & Provolone, Wheat Wrap",Sandwiches,417,740,30.5,13,0,125,1130,58,57,5,718,"#12 Cancro Special, Tomato Wrap",Sandwiches,458,770,31,13,1,135,1140,60,63,11,519,"Tuna, Footlong",Sandwiches,474,960,51,9,0.5,75,1150,88,41,13,1020,"#12 Cancro Special, Spinach Wrap",Sandwiches,458,770,31,13,1,135,1160,61,63,8,521,"Grilled Roast Beef & Cheese Wrap, Flour",Sandwiches,430,830,45,14,0.5,100,1170,65,42,12,522,"#9 Club Supreme, Wheat Mini",Sandwiches,324,650,28,8,0,75,1185,61,39,5,623,#6 Famous Roast Beef & Provolone on Tomato Wrap,Sandwiches,412,720,29.5,13,0,120,1195,59,55,11,424,"#6 Roast Beef & Provolone, Tomato Wrap",Sandwiches,417,745,30.5,13.5,0,125,1210,59,57,11,425,#6 Famous Roast Beef & Provolone on Spinach Wrap,Sandwiches,412,720,29.5,13,0,120,1215,60,55,8,426,Grilled Veggie Wrap on Flour Tortilla Wrap,Sandwiches,452,810,46,20.5,0.5,85,1215,66,33,9,727,French Toast Egg Sandwich,Sandwiches,287,740,34,15,0.5,385,1230,79,31,27,228,"#6 Famous Roast Beef & Provolone, Spinach Wrap",Sandwiches,417,745,30.5,13.5,0,125,1230,60,57,8,429,#12 Cancro Special on Flour Tortilla Wrap,Sandwiches,423,770,33.5,14,0,135,1230,60,58,6,630,"#9 Club Supreme, White Mini",Sandwiches,324,620,27,8,0,75,1250,57,38,5,331,Grilled Chicken Sandwich Whatameal,Sandwiches,1276,1260,34,5,0,90,1250,210,37,120,932,"Cheese & Veggies Pizza, 8 in",Pizza,381,740,25,11,0,50,1270,100,36,9,533,Grilled Chicken Sub on Wheat Regular,Sandwiches,384,720,31.5,5.5,0,100,1270,68,41,9,434,Steak & Cheese Melt Sandwich,Sandwiches,224,680,35,12,1,110,1280,57,31,5,235,Grilled Veggie Wrap on Wheat Wrap,Sandwiches,452,800,46,20.5,0.5,85,1285,64,33,8,836,Grilled Chicken Sub on White Regular,Sandwiches,384,720,31.5,5,0,100,1300,67,40,8,237,#12 Cancro Special on Wheat Wrap,Sandwiches,423,760,33.5,14,0,135,1300,58,58,5,738,Grilled Chicken Sub on Flour Tortilla Wrap,Sandwiches,380,740,38,7.5,0,100,1300,61,40,7,539,The Double All Natural Burger,Burgers,398,1030,64,23,1.5,170,1310,62,53,19,340,Grilled Chicken Sandwich Whatameal,Sandwiches,1073,1150,35,5,0,95,1330,184,40,96,1341,Chop House Cheddar Burger Jr Whatameal,Burgers,1227,1430,58,15,1,80,1330,201,36,119,642,"Big Farm Hamburger, High Calorie",Burgers,431,930,46,15,2,95,1330,93,33,8,743,Chop House Cheddar Burger Jr Whatameal,Burgers,1227,1430,58,15,1,80,1330,201,36,119,644,The Big Chicken Fillet Sandwich,Sandwiches,288,650,33,6,0,70,1330,55,33,9,345,#7 Omelet w/ Bacon on Flour Tortilla Wrap,Sandwiches,274,710,38.5,16.5,0,480,1335,54,37,1,546,Whatachickn Sandwich Whatameal,Sandwiches,1078,1280,43,6,0,60,1340,203,34,96,1347,Cheesy Wakin Bacon Egg Sandwich,Sandwiches,201,580,26,11,0.5,240,1340,54,33,7,248,"Cranberry Pecan Chicken Salad, Regular, 2pm Close",Salads,351,610,31,8,1,75,1340,52,33,19,749,#7 Omelet w/ Bacon on White Sub Roll,Sandwiches,284,680,32,14,0,480,1340,63,39,3,450,#7 Omelet w/ Bacon on Wheat Sub Roll,Sandwiches,284,700,32.5,14.5,0,480,1340,63,39,3,451,"Pepperoni Pizza, 8 in",Pizza,323,790,32,13,0,60,1350,96,38,8,452,Italian Chicken Tostini,Sandwiches,304,680,31,9,0,95,1350,62,45,8,853,Spinach Artichoke Chicken on Spinach Florentine Bagel,Sandwiches,314,650,25,12,0.5,115,1350,63,45,7,554,French Toast Egg Sandwich w/ 2 Eggs,Sandwiches,274,780,36,16,1,435,1350,78,34,27,255,The Big Chicken Fillet Sandwich,Sandwiches,300,680,35,6,0,75,1360,62,32,11,456,#6 Omelet w/ Ham on Flour Tortilla Wrap,Sandwiches,288,620,29,12.5,0,475,1365,55,36,1,557,Grilled Veggie Wrap on Tomato Wrap,Sandwiches,452,810,46,21,0.5,85,1365,65,33,14,558,Grilled Chicken Sub on Wheat Wrap,Sandwiches,380,730,38,7.5,0,100,1370,59,40,6,659,Sweet & Spicy Bacon Burger Jr Whatameal w/ Lower Calorie Sides,Burgers,859,640,33,13,1,80,1370,51,32,16,360,The Big Carl,Burgers,321,920,58,23,2,140,1380,56,47,12,361,"Grilled Veggie Wrap, Flour",Sandwiches,487,945,58.5,23.5,0.5,100,1380,69,36,10,762,The Big Carl,Burgers,321,920,58,23,2,140,1380,56,47,12,363,#12 Cancro Special on Tomato Wrap,Sandwiches,423,770,33.5,14.5,0,135,1380,59,58,11,464,Grilled Veggie Wrap on Spinach Wrap,Sandwiches,452,810,46,21,0.5,85,1385,66,33,11,565,Spinach & Artichoke Chicken,Sandwiches,343,690,26,13,0.5,115,1390,66,49,8,766,Santa Fe Sandwich w/ 2 Eggs,Sandwiches,301,640,28,13,1,440,1390,61,37,8,267,#12 Cancro Special on Spinach Wrap,Sandwiches,423,770,33.5,14.5,0,135,1400,60,58,8,468,#10 Tuna Salad on Wheat Regular,Sandwiches,422,800,42.5,6.5,0,85,1405,71,33,8,569,Italian Chicken on Potato Roll,Sandwiches,297,670,31,9,0,95,1410,58,44,8,670,"Sausage Pizza, 8 in",Pizza,336,820,34,14,0,70,1420,97,39,8,471,All Natural Budweiser Beer Cheese Bacon Burger Single,Burgers,327,710,38,16,1,85,1430,51,40,11,372,All Natural Budweiser Beer Cheese Bacon Burger Single,Burgers,327,710,38,16,,85,1430,51,40,11,373,"#10 Tuna Fish, Flour Tortilla Wrap",Sandwiches,418,820,49,8.5,0,85,1435,64,32,6,674,#10 Tuna Salad on White Regular,Sandwiches,422,800,42.5,6,0,85,1435,70,32,7,375,#10 Tuna Fish on Flour Tortilla Wrap,Sandwiches,418,820,49,8.5,0,85,1435,64,32,6,676,Single Super Bacon Cheese Burger,Burgers,293,840,52,19,1,115,1440,52,39,9,377,"#10 Tuna Salad, Wheat Regular",Sandwiches,428,810,43,6.5,0,85,1440,73,34,8,578,"#10 Tuna Salad, White Regular",Sandwiches,428,790,42.5,6,0,85,1440,70,33,7,379,Grilled Chicken Sub on Tomato Wrap,Sandwiches,380,740,38,8,0,100,1450,60,40,12,380,Chorizo Sunrise,Sandwiches,315,840,51,21,0.5,275,1460,61,36,8,581,Double Meat Whataburger,Burgers,400,830,44,14,2,90,1470,62,47,12,482,Grilled Chicken Sub on Spinach Wrap,Sandwiches,380,740,38,8,0,100,1470,61,40,9,383,Double Meat Whataburger,Burgers,400,830,44,14,2,90,1470,62,47,12,484,"#17 Jersey Mike's Famous Philly, Flour Tortilla Wrap",Sandwiches,387,670,28,13,0,105,1475,65,41,9,585,Chicken Caesar Wrap,Sandwiches,324,630,28,12,0,110,1480,61,37,6,786,Italian Chicken on Potato Roll,Sandwiches,308,680,31,9,0,95,1480,63,45,8,687,Chicken & Double Smoked Bacon,Sandwiches,201,620,26,8,0,110,1480,65,31,12,388,Chorizo Sunrise w/ Egg White,Sandwiches,326,790,46,19,0,90,1480,61,36,7,589,#7 Omelet w/ Bacon on Tomato Wrap,Sandwiches,274,710,38.5,17,0,480,1485,53,37,6,390,The Big Chicken Fillet Sandwich,Sandwiches,329,750,42,8,,85,1490,63,32,11,391,The 1/3 lb Original Six Dollar Thickburger,Burgers,338,780,48,15,2,110,1490,55,33,18,392,Chicken Caesar Wrap on Flour Tortilla Wrap,Sandwiches,359,650,28,6,0,90,1490,58,43,5,693,A1 Thick & Hearty Burger Jr Whatameal,Burgers,978,1250,49,12,1,65,1500,174,34,92,694,"Whataburger Patty Melt, Single Whatameal",Burgers,1022,1360,58,14,1,70,1500,180,33,89,595,Double Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1405,870,44,14,2,90,1500,72,47,17,596,Double Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1405,870,44,14,2,90,1500,72,47,17,597,"#10 Tuna Fish, Wheat Wrap",Sandwiches,418,815,49,8.5,0,85,1505,62,32,5,798,#7 Omelet w/ Bacon on Spinach Wrap,Sandwiches,274,710,38.5,17,0,480,1505,54,37,3,399,#10 Tuna Fish on Wheat Wrap,Sandwiches,418,720,49,8.5,0,85,1505,62,32,5,7100,"Whataburger Patty Melt, Single Whatameal",Burgers,1262,1470,58,14,1,70,1510,209,33,118,5101,The Big Chicken Fillet Sandwich,Sandwiches,312,710,36,6,1,80,1510,64,35,10,4102,Chicken Fajita Taco Whatameal,Sandwiches,1236,1170,32,6,0,80,1510,195,34,114,7103,Bacon & Spinach on Spinach Florentine,Sandwiches,245,730,43,14,1,255,1510,56,32,8,3104,#6 Omelet w/ Ham on Tomato Wrap,Sandwiches,288,620,29,13,0,475,1515,54,36,6,3105,Loaded Breakfast Burrito,Sandwiches,306,790,50,22,0,395,1520,53,32,2,3106,Whataburger Whatameal,Burgers,1110,1310,46,10,1,45,1520,196,34,94,8107,Cheesy Bacon,Sandwiches,273,670,30,13,0.5,365,1530,60,38,7,2108,Bacon & Spinach on Spinach Florentine w/ Egg White,Sandwiches,256,680,38,12,0.5,70,1530,56,32,8,3109,Whataburger Whatameal,Burgers,1351,1420,46,10,1,45,1530,226,34,124,8110,#6 Omelet w/ Ham on Spinach Wrap,Sandwiches,288,620,29,13,0,475,1535,55,36,3,3111,Super Star w/ Cheese,Burgers,390,930,56,23,2,140,1540,59,48,14,3112,The Breakfast Burger,Burgers,294,830,44,19,1,255,1540,68,39,13,4113,BBQ Bacon Whopper Sandwich,Burgers,303,800,51,17,2,125,1540,53,35,14,2114,Super Star w/ Cheese,Burgers,390,920,56,23,2,140,1540,59,48,13,4115,"#17 Jersey Mike's Famous Philly, Wheat Wrap",Sandwiches,387,660,28,13,0,105,1545,63,41,8,6116,Sweet & Spicy Bacon Burger Jr Whatameal,Burgers,861,1140,47,15,1,80,1550,146,35,81,4117,Chicken Caesar Wrap on Wheat Wrap,Sandwiches,359,640,28,6,0,90,1560,56,43,4,7118,Applewood Bacon & Spinach on Spinach Florentine Bagel,Sandwiches,310,770,43,17,0.5,365,1580,62,35,8,3119,"Turkey, Bacon & Avocado, License Locations Only",Sandwiches,316,640,32,6,0,80,1580,57,35,11,9120,"#9 Club Supreme, Flour Tortilla Wrap",Sandwiches,479,960,55,16,0.5,120,1580,63,54,6,7121,"#9 Club Supreme, White Regular",Sandwiches,490,940,49,13.5,0.5,120,1585,69,55,8,4122,"#10 Tuna Fish, Tomato Wrap",Sandwiches,418,820,49,9,0,85,1585,63,32,11,4123,#10 Tuna Fish on Tomato Wrap,Sandwiches,418,820,49,9,0,85,1585,63,32,11,4124,"#9 Club Supreme, Wheat Regular",Sandwiches,490,960,50,13.5,0.5,120,1590,71,57,10,7125,Chicken Fajita Taco Whatameal,Sandwiches,1220,1170,34,6,0,90,1590,193,33,114,7126,Santa Fe Wrap,Sandwiches,293,710,39,16,0.5,290,1590,60,32,3,7127,Spicy Nacho Chicken Sandwich,Sandwiches,271,750,37,7,0,55,1600,69,31,7,4128,Turkey Pesto,Sandwiches,337,710,37,14,0,90,1600,56,40,2,3129,Green Chile Double Jr Whatameal,Burgers,996,1260,51,14,1,70,1600,171,33,89,6130,Avocado Bacon Burger,Burgers,334,820,52,15,1,90,1600,51,37,7,4131,Avocado Bacon Burger,Burgers,334,820,52,15,1,90,1600,51,37,7,4132,#18 Breaded Chicken Parmesan on Wheat Wrap,Sandwiches,335,690,27,11,0,85,1600,69,45,4,8133,Chorizo Sunrise w/ 2 Eggs,Sandwiches,361,920,57,23,1,465,1600,62,42,8,5134,"#10 Tuna Fish, Spinach Wrap",Sandwiches,418,820,49,9,0,85,1605,64,32,8,4135,#10 Tuna Fish on Spinach Wrap,Sandwiches,418,820,49,9,0,85,1605,64,32,8,4136,Turkey & Cheddar,Sandwiches,322,660,29,7,0.5,70,1610,61,34,12,3137,Green Chile Double Jr Whatameal,Burgers,1236,1370,51,14,1,70,1610,201,33,119,6138,#6 Roast Beef & Provolone on Wheat Giant,Sandwiches,765,1330,43,18.5,0.5,235,1620,130,107,14,9139,"Cranberry Pecan Chicken, High Calorie, Regular",Salads,408,910,50,13,0,85,1620,81,37,24,8140,"#17 Jersey Mike's Famous Philly, Tomato Wrap",Sandwiches,387,670,28,13.5,0,105,1625,64,41,14,3141,"Turkey, Bacon & Avocado",Sandwiches,318,660,30,5,0,60,1630,64,34,9,4142,1/3 lb Cheeseburger,Burgers,256,640,35,13,,105,1630,55,31,15,10143,1/3 lb Mushroom & Swiss Thickburger,Burgers,267,690,40,15,,115,1630,52,34,11,10144,Avocado Bacon Burger Whatameal w/ Lower Calorie Sides,Burgers,1339,860,52,15,1,90,1630,62,37,12,5145,Avocado Bacon Burger Whatameal w/ Lower Calorie Sides,Burgers,1339,860,52,15,1,90,1630,62,37,12,5146,1/3 lb Cheeseburger,Burgers,244,640,33,12,2,100,1640,56,33,14,2147,Chicken Caesar Wrap on Tomato Wrap,Sandwiches,359,650,28,6.5,0,90,1640,57,43,10,4148,Grilled Chicken Melt Whatameal,Sandwiches,1258,1220,32,6,0,95,1640,203,38,119,7149,"#17 Jersey Mike's Famous Philly, Spinach Wrap",Sandwiches,387,670,28,13.5,0,105,1645,65,41,11,3150,Western Bacon Cheeseburger,Burgers,250,750,35,14,1,80,1650,75,36,16,4151,"#9 Club Supreme, Wheat Wrap",Sandwiches,479,950,55,16,0.5,120,1650,61,53,5,8152,Mushroom Swiss Burger Jr Whatameal,Burgers,1264,1490,63,17,1,85,1650,201,36,119,6153,Western Bacon Cheeseburger,Burgers,250,750,35,14,1,80,1650,75,36,16,4154,1/3 lb Original Thickburger,Burgers,358,820,53,16,,120,1660,56,32,15,10155,Turkey Santa Fe,Sandwiches,345,730,40,14,0,90,1660,57,36,2,3156,Chop House Cheddar Burger,Burgers,373,1110,69,26,2,150,1660,61,60,12,3157,Bacon & Spinach on Spinach Florentine w/ 2 Eggs,Sandwiches,291,810,49,16,1,445,1660,57,38,9,3158,1/3 lb Original Thickburger,Burgers,334,780,48,15,2.5,110,1660,56,34,14,3159,1/3 lb Mushroom & Swiss Thickburger,Burgers,255,680,38,15,2,110,1660,53,36,10,2160,Chicken Caesar Wrap on Spinach Wrap,Sandwiches,359,650,28,6.5,0,90,1660,58,43,7,4161,Chop House Cheddar Burger,Burgers,373,1110,69,26,2,150,1660,61,60,12,3162,"Farmhouse Garden Chicken, High Calorie, Full",Salads,612,1150,68,20,0,80,1670,103,32,23,10163,1/3 lb Bacon Cheese Thickburger,Burgers,348,900,59,18,,140,1680,54,40,13,10164,Monterey Melt Jr Whatameal,Burgers,1009,1330,59,16,1,75,1680,172,33,89,6165,#18 Breaded Chicken Parmesan on Tomato Wrap,Sandwiches,335,700,27,11.5,0,85,1680,70,45,10,5166,#6 Roast Beef & Provolone on White Giant,Sandwiches,765,1330,42.5,18.5,0.5,235,1680,128,106,13,5167,#15 Meatball & Cheese on Wheat Regular,Sandwiches,318,800,40.5,18,0,90,1680,72,37,7,7168,Homestyle Ranch Chicken Club,Sandwiches,266.26,632,28,8,0,72,1687,62,34,12,4169,Chop House Cheddar Burger Whatameal w/ Lower Calorie Sides,Burgers,1376,1130,68,26,2,155,1690,71,61,17,4170,Chop House Cheddar Burger Jr Whatameal w/ Lower Calorie Sides,Burgers,1376,1130,68,26,2,155,1690,71,61,17,4171,Monterey Melt Jr Whatameal,Burgers,1249,1430,59,16,1,75,1690,201,33,119,6172,Chop House Cheddar Burger Whatameal w/ Lower Calorie Sides,Burgers,1378,1150,69,26,2,155,1690,71,61,17,4173,Grilled Chicken Melt Whatameal,Sandwiches,1001,1110,33,7,0,105,1700,172,37,89,7174,1/3 lb Bacon Cheese Thickburger,Burgers,324,850,54,17,2.5,130,1700,54,42,12,3175,#18 Breaded Chicken Parmesan on Spinach Wrap,Sandwiches,335,700,27,11.5,0,85,1700,71,45,7,5176,#15 Meatball & Cheese on Flour Tortilla Wrap,Sandwiches,314,830,47.5,20,0,90,1710,65,36,5,8177,"Farmhouse Garden Chicken Salad, Full, 2pm Close",Salads,620,710,31,10,1,130,1710,57,52,14,8178,#15 Meatball & Cheese on White Regular,Sandwiches,318,800,41,17.5,0,90,1710,71,36,6,5179,"The Grilled Burrito, Beef",Sandwiches,487,850,35,15,0.5,95,1720,90,41,7,8180,Triple Meat Whataburger,Burgers,484,1080,63,21,3,130,1720,62,65,12,4181,"The Grilled Burrito, Beef",Sandwiches,487,850,35,15,0.5,95,1720,90,41,7,8182,Triple Meat Whataburger,Burgers,484,1080,63,21,3,130,1720,62,65,12,4183,"#9 Club Supreme, Tomato Wrap",Sandwiches,479,960,55,16,0.5,120,1730,62,54,11,5184,"Three Cheese Burger, High Calorie",Burgers,474,1080,57,23,1.5,140,1740,94,44,9,7185,Buttermilk Chicken Bacon & Swiss Sandwich,Sandwiches,295,650,31,9,0,90,1750,56,39,9,2186,Santa Fe Wrap,Sandwiches,314,650,32,16,0,380,1750,60,38,7,2187,"#9 Club Supreme, Spinach Wrap",Sandwiches,479,960,55,16,0.5,120,1750,63,54,8,5188,Triple Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1489,1120,63,21,3,135,1750,72,65,17,5189,Triple Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1489,1120,63,21,3,135,1750,72,65,17,5190,#8 Omelet w/ Ham & Bacon on Flour Tortilla Wrap,Sandwiches,309,740,39.5,17,0,500,1755,55,42,1,5191,The Bacon 3 Way Burger,Burgers,329,800,44,17,1,105,1760,65,39,21,3192,"Taco Salad, Ground Beef",Salads,548,850,47,15,1,85,1760,70,38,8,14193,Italian Chicken Tostini,Sandwiches,340,740,37,12,0,105,1760,59,48,3,9194,"Egg & Cheese, Footlong",Sandwiches,349,740,26,9,0,345,1760,87,38,10,8195,"Wildfire Chicken Salad, High Calorie, Full",Salads,601,1170,63,17,0,65,1760,122,32,37,11196,#8 Omelet w/ Ham & Bacon on White Sub Roll,Sandwiches,319,710,33,14.5,0,500,1760,61,43,2,2197,#8 Omelet w/ Ham & Bacon on Wheat Sub Roll,Sandwiches,319,730,33.5,15,0,500,1760,64,44,3,4198,"The Grilled Burrito, Chicken",Sandwiches,478,830,31,14,0,130,1780,88,46,6,6199,#15 Meatball & Cheese on Wheat Wrap,Sandwiches,314,820,47.5,20,0,90,1780,63,36,4,9200,"The Grilled Burrito, Chicken",Sandwiches,478,830,31,14,0,130,1780,88,46,6,6201,#14 Veggie on Wheat Giant,Sandwiches,719,1310,57,36,2,160,1790,135,66,17,9202,Whataburger Patty Melt Whatameal w/ Lower Calorie Sides,Burgers,1336,980,61,21,2,130,1790,56,49,11,2203,Green Chile Double Jr Whatameal w/ Lower Calorie Sides,Burgers,1355,1010,57,21,2,125,1790,69,54,15,4204,All Natural Budweiser Beer Cheese Bacon Burger Double,Burgers,403,940,55,24,2,155,1800,52,60,12,3205,All Natural Budweiser Beer Cheese Bacon Burger Double,Burgers,403,940,55,24,,155,1800,52,60,12,3206,Jalapeno & Cheese Whataburger,Burgers,352,680,32,12,1,65,1800,63,34,12,4207,Pepperoni Pizza,Pizza,323,840,33,13,1,70,1800,97,35,8,4208,Jalapeno & Cheese Whataburger,Burgers,352,680,32,12,1,65,1800,63,34,12,4209,"Chicken Cobb Salad, High Calorie, Regular",Salads,474,1020,62,17,0,175,1800,73,42,20,6210,"Grilled Burrito, Beef",Sandwiches,383,700,31,14,1.5,85,1800,71,36,5,8211,Grilled Breakfast Sandwich,Sandwiches,253,620,29,10,0,490,1810,53,36,4,4212,Grilled Breakfast Sandwich,Sandwiches,253,616,29,10,0,491,1813,53,36,4,4213,1/3 lb Budweiser Beer Cheese Bacon Thickburger,Burgers,358,790,46,20,2,115,1820,51,43,12,2214,1/3 lb Budweiser Beer Cheese Bacon Thickburger,Burgers,358,790,46,2046,,115,1820,51,43,12,2215,California Club on Wheat Regular,Sandwiches,470,700,26.5,11.5,0,75,1820,71,45,8,9216,The 1/3 lb Guacamole Bacon Thickburger,Burgers,387,1010,69,20,2,120,1830,57,35,14,4217,Green Chile Club on Green Chile Bagel,Sandwiches,341,720,34,12,0.5,95,1830,62,43,9,3218,Jalapeno & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1357,720,32,12,1,65,1830,73,34,17,5219,Jalapeno & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1357,720,32,12,1,65,1830,73,34,17,5220,"Meatball Pizza, 8 in",Pizza,344,860,33,14,1,80,1840,100,37,7,5221,Macho Combo Burrito,Sandwiches,538,950,37,20,0.5,110,1840,100,46,6,16222,#14 Veggie on White Giant,Sandwiches,719,1310,56.5,36,2,160,1850,133,65,16,5223,California Club on White Regular,Sandwiches,470,700,26.5,11,0,75,1850,70,44,7,7224,"Wildfire Chicken Salad, Full, 2pm Close",Salads,617,790,32,9,1,125,1860,75,52,29,9225,#15 Meatball & Cheese on Tomato Wrap,Sandwiches,314,830,47.5,20.5,0,90,1860,64,36,10,6226,#9 Club Supreme on Wheat Regular,Sandwiches,478,930,48,14.5,0,145,1865,70,57,8,5227,"The Breakfast Burger, Double",Burgers,377,1080,64,26,2,305,1870,68,59,13,4228,Sausage Pizza,Pizza,336,860,35,14,0.5,80,1870,98,35,8,4229,#15 Meatball & Cheese on Spinach Wrap,Sandwiches,314,830,47.5,20.5,0,90,1880,65,36,7,6230,Homestyle Ranch Chicken Club,Sandwiches,267,710,33,8,0,80,1880,66,40,12,4231,"Epic Scrambler, Carne Asada Steak",Sandwiches,459,960,54,20,0,595,1890,73,39,6,3232,Mushroom Swiss Burger,Burgers,409,1110,70,23,2,135,1890,61,56,11,3233,Epic Scrambler w/ Carne Asada Steak,Sandwiches,459,960,54,20,0,595,1890,73,39,6,3234,"Taco Salad, Ground Beef",Salads,569,890,56,18,1,90,1890,62,35,9,11235,#9 Club Supreme on White Regular,Sandwiches,478,930,48,14,0,145,1895,68,56,7,3236,#9 Club Supreme on Flour Tortilla Wrap,Sandwiches,474,960,54.5,16.5,0,145,1895,62,56,6,6237,#8 Omelet w/ Ham & Bacon on Tomato Wrap,Sandwiches,309,740,39.5,17.5,0,500,1905,54,42,6,3238,Bacon & Cheese Whataburger,Burgers,354,750,37,13,1,80,1910,62,39,12,4239,Bacon & Cheese Whataburger,Burgers,354,750,37,13,1,80,1910,62,39,12,4240,"#15 Meatball & Cheese, Flour Tortilla Wrap",Sandwiches,366,855,46.5,20,0,90,1920,73,37,11,9241,"Taco Salad, Beef",Salads,506,920,56,17,5,70,1920,72,35,5,8242,Mushroom Swiss Burger Whatameal w/ Lower Calorie Sides,Burgers,1414,1150,70,23,2,135,1920,71,56,16,4243,#8 Omelet w/ Ham & Bacon on Spinach Wrap,Sandwiches,309,740,39.5,17.5,0,500,1925,55,42,3,3244,Roast Turkey & Swiss Sandwich,Sandwiches,326,710,28,7,0,65,1930,79,38,15,5245,The 1/3 lb Super Bacon Thickburger,Burgers,354,960,63,20,2,130,1930,55,40,13,3246,"Taco Salad, Beef",Salads,506,930,56,17,,65,1930,73,35,7,9247,"California Cheesesteak, Flour Tortilla Wrap",Sandwiches,467,880,53,17,0,130,1930,62,40,8,5248,Roast Turkey & Swiss Sandwich,Sandwiches,326,710,28,7,0,65,1930,79,38,15,5249,"California Cheesesteak, Wheat Regular",Sandwiches,477,875,47,15,0,130,1935,71,42,10,4250,"California Cheesesteak, White Regular",Sandwiches,477,860,46.5,14.5,0,130,1935,68,41,9,2251,Bacon & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1359,790,37,13,1,85,1940,72,40,17,5252,Bacon & Cheese Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1314,780,37,13,1,85,1940,70,39,15,4253,"Taco Salad, Chicken",Salads,560,870,53,17,0,120,1950,60,40,9,9254,"Taco Salad, Steak",Salads,560,870,53,17,0,120,1950,60,40,9,9255,Turkey Club Mex Wrap,Sandwiches,350,720,40,11,0,80,1950,57,36,4,8256,Cheesy Bacon Club,Sandwiches,351,820,41,16,1,120,1950,63,50,9,3
