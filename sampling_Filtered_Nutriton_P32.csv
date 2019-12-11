@@ -1,0 +1,33 @@
+No.,Item_Name,Food_Category,Serving_Size,Calories,Total_Fat,Saturated_Fat,Trans_Fat,Cholesterol,Sodium,Carbohydrates,Protein,Sugar,Dietary_Fiber
+1,Turkey & Havarti Sandwich,Sandwiches,173,460,21,7,0,80,940,31,29,2,2
+2,No Yolk Egg Sandwich,Sandwiches,244,420,19,2.5,0,25,940,40,22,7,7
+3,"#7 Turkey Breast & Provolone, White Mini",Sandwiches,284,390,7,3.5,0,35,1240,56,25,5,3
+4,Hot Dogs,Sandwiches,545,545,35,15.5,1,61,1130,40,18,8,2
+5,Buffalo Chicken & Bacon Tostini,Sandwiches,288,600,22,8,0,100,1950,57,46,2,8
+6,"#15 Meatball & Cheese, White Regular",Sandwiches,376,830,42,17.5,0,90,2005,75,38,9,6
+7,Tuna Salad,Salads,362,310,24,4,0,40,380,11,15,6,4
+8,Double Meat Whataburger Whatameal w/ Lower Calorie Sides,Burgers,1405,870,44,14,2,90,1500,72,47,17,5
+9,Chorizo Breakfast Burrito,Sandwiches,231,520,28,11,0,395,1190,39,24,2,2
+10,Chicken Salad Sandwich,Sandwiches,176,400,14,3,0,50,840,44,18,6,2
+11,Grilled Chicken Melt Whatameal w/ Lower Calorie Sides,Sandwiches,1260,550,14,5,0,105,1620,69,37,15,5
+12,All Natural Budweiser Beer Cheese Bacon Burger Single,Burgers,327,710,38,16,1,85,1430,51,40,11,3
+13,Green Chile Double Jr,Burgers,201,540,30,12,1,65,1310,37,28,7,1
+14,Grilled Chicken Melt Whatameal,Sandwiches,1001,1110,33,7,0,105,1700,172,37,89,7
+15,Homestyle Cheeseburger,Burgers,212,550,27,12,1.5,95,1140,48,30,10,2
+16,Chorizo Sunrise,Sandwiches,315,840,51,21,0.5,275,1460,61,36,8,5
+17,#17 Jersey Mikes Famous Philly on Wheat Wrap,Sandwiches,371,750,35,16.5,0,115,2360,64,44,8,7
+18,Three Cheese Steak Sandwich,Sandwiches,255,650,36,15,1,115,1750,44,42,7,2
+19,"Pork Roll, Egg & Cheese Sandwich, White",Sandwiches,278,630,34.5,16.5,0,510,1725,43,37,1,1
+20,Loaded Italian,Sandwiches,308,680,40,14,0.5,100,2270,49,32,7,3
+21,"#1 Pork Roll, Egg & Cheese Sandwich on Plain Bagel",Sandwiches,289,660,34.5,17,0,510,1720,50,37,7,1
+22,"#6 Roast Beef & Provolone, White Giant",Sandwiches,772,1320,42,17.5,0.5,230,1995,128,107,13,5
+23,Chop House Cheddar Burger,Burgers,373,1110,69,26,2,150,1660,61,60,12,3
+24,"Tomato Basil Soup, Cup w/ Premium Saltine Crackers",Soup,188,280,17,10,0,50,1180,27,4,3,1
+25,#1 BLT on White Giant,Sandwiches,505,1080,45,19,0,90,2930,126,42,9,4
+26,"Sausage, Egg & Cheese on Biscuit",Sandwiches,189,530,35,17,0,215,1190,34,19,5,2
+27,55+ Hamburger,Burgers,199,610,32,8,1.5,90,560,40,27,7,1
+28,"Subway Club, 6 in",Sandwiches,240,310,4.5,1.5,0,40,840,46,23,8,5
+29,Oreo Cookie Hand Scooped Ice Cream Malt,Beverages,414,790,41,26,1.5,110,390,94,15,64,1
+30,"California Cheesesteak, Tomato Wrap",Sandwiches,467,880,53,17.5,0,130,2080,61,40,13,3
+31,California Cheesesteak on Spinach Wrap,Sandwiches,465,970,60,20.5,0,140,2350,64,44,11,3
+32,"California Dreamin, In a Tub",Salads,290,190,7,1.5,0,35,820,9,22,5,4
